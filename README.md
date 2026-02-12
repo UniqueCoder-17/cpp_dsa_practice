@@ -9,4 +9,4 @@ A collection of my daily Data Structures and Algorithms practice problems in C++
 
 ## Goal
 To strengthen problem-solving skills and build a consistent portfolio.
-## I'm beginner who is a coding enthusiast and trying to explore the modern coding world.
+# I'm beginner who is a coding enthusiast and trying to explore the modern coding world.
