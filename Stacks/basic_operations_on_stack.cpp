@@ -58,8 +58,10 @@ case 4:
     display();
     break; 
 case 5:
-    k == 0;
+    k = 0;
+    cout<<"Executed Succesfully!"<<endl;
     break;   
 }
 }
+
 }
